@@ -1,0 +1,11 @@
+# Garry's Mod / Lua defaults
+*.db
+*.log
+*.zip
+*.rar
+*.7z
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
